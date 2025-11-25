@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "Primer Commit"
+
+nota: estos tees primeros metelos juntos 
+
+git remote add origin https://github.com/FernandaCordova-boop/Actividad-Prueb-Git
+
+git push -u origin main --force
